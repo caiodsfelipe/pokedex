@@ -1,24 +1,9 @@
-# pokedex
+# POKÉDEX
 
-## Project setup
-```
-npm install
-```
+### Pokédex desenvolvida com Vue.js, TypeScript, HTML/CSS e Bootstrap.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Um treinador pokémon perdeu sua Pokédex e veio até mim me pedir uma nova...
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Para essa tarefa, utilizei uma base de dados que, felizmente, ele já possuia: [Pokémon API](https://pokeapi.co/)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Divirta-se na sua aventura :)
