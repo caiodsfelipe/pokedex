@@ -1,19 +1,17 @@
 # POKÉDEX
 
-Pokédex desenvolvida com Vue.js, TypeScript, HTML/CSS e Bootstrap.
+Developed using Vue.js, TypeScript, HTML/CSS e Bootstrap.
 
-## História
+## Details
 
-Um **Treinador Pokémon** perdeu sua **Pokédex** e veio até mim me pedir uma nova...
+API: [Pokémon API](https://pokeapi.co/)
 
-Para essa tarefa, utilizei uma base de dados que, felizmente, ele já possuia: [Pokémon API](https://pokeapi.co/)
-
-Clone este repositório na sua máquina e execute os seguintes comandos no seu terminal:
+Clone this repository in your machine and run the following commands in your terminal:
 ```
 npm i
 npm run serve
 ```
 
-Perfeito, agora você tem uma **Pokédex** só sua!
+Perfect, now you have a **Pokédex**!
 
-**Divirta-se na sua aventura :smiley:**
+**Have fun in your adventure :smiley:**
